@@ -1,0 +1,39 @@
+TEST INFERENCE RESULTS — BERT, GPT-2, GAN
+MODEL 1: BERT — SENTIMENT CLASSIFICATION
+
+Review: "this movie was absolutely fantastic, i loved every minute of it"
+Prediction: Positive (confidence: 0.9992)
+
+Review: "what a waste of time, the plot made no sense and the acting was terrible"
+Prediction: Negative (confidence: 0.9989)
+
+Review: "it was okay, not great but not the worst thing i've seen either"
+Prediction: Negative (confidence: 0.9981)
+
+Review: "a masterpiece of modern cinema with brilliant performances"
+Prediction: Positive (confidence: 0.9992)
+MODEL 2: GPT-2 — TEXT GENERATION
+
+Prompt: "this movie was"
+Generated: this movie was a little too dark to be seen in theaters), and the fact that this is his first film as director means it's still very much an adaptation of one I read about back when he came up with all these ideas. It sounds like there will always be more than just some sorta
+
+Prompt: "the acting in this film"
+Generated: the acting in this film is very similar to that of the previous two films, and yet somehow manages to create something unique. It's a combination of different styles but also some interesting things about it as well."
+
+
+Prompt: "i would recommend this movie because"
+Generated: i would recommend this movie because it's a real-time strategy game with very few resources. The problem is that the player will die, and you have to choose which side he wants his life back on as soon as possible before dying again in order for him not to be affected by your actions anymore
+
+Prompt: "the worst part about this film is"
+Generated: the worst part about this film is that it's not the best one of all time. I thought, 'This was supposed to be a classic.' But when we saw so much bad acting in Star Trek III: The Search for Spock and Voyager (and even more recently), there were some things which
+MODEL 3: TEXT-GAN — SYNTHETIC TEXT GENERATION
+
+Sample 1: write presented fails long jack forever roll problems recommend book
+
+Sample 2: cartoon includes tough compelling accident isnt watched would various perspective
+
+Sample 3: anything gets played talented ended scenery becoming match critics giant
+
+Sample 4: managed william forgotten air violent singing garbage became details present
+
+Sample 5: although greatest giant america morgan gotten haunted harris tired yeah
